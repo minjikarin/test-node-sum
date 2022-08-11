@@ -2,4 +2,4 @@
 
 How to run the test
 
-`node test_sum.js`
+`node test.js`
