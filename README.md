@@ -1,4 +1,4 @@
-# Validate the sum of two numbers
+# Display the sum of two numbers
 
 How to run the test
 
