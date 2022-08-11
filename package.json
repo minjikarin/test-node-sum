@@ -1,0 +1,14 @@
+{
+  "name": "nodesum",
+  "version": "1.0.0",
+  "description": "test project for simple sum",
+  "main": "test_sum.js",
+  "scripts": {
+    "test": "npm test_sum.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amadeus": "^7.0.0"
+  }
+}
