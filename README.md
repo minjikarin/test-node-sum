@@ -1,4 +1,4 @@
-# Display the sum of two numbers
+# Test the sum of two numbers
 
 How to run the test
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="1" errors="0" time="0.579">
+  <testsuite name="test.js" errors="0" failures="1" skipped="0" timestamp="2022-08-12T10:55:06" time="0.489" tests="1">
+    <testcase classname="Test" name="Adds 2 numbers" time="0.006">
+      <failure>Error: expect(received).toEqual(expected) // deep equality
+
+Expected: 3
+Received: -1
+    at Object.toEqual (/home/hackerearth/Downloads/test-node-sum/test.js:9:26)
+    at Promise.then.completed (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/utils.js:323:26)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/utils.js:259:10)
+    at _callCircusTest (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/run.js:277:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at _runTest (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/run.js:209:3)
+    at _runTestsForDescribeBlock (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/run.js:97:9)
+    at _runTestsForDescribeBlock (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/run.js:91:9)
+    at run (/home/hackerearth/Downloads/test-node-sum/node_modules/jest-circus/build/run.js:31:3)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
